@@ -1,1 +1,4 @@
 test
+matematika
+kurs1
+kurs2
